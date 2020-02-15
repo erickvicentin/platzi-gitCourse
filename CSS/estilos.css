@@ -1,5 +1,5 @@
 body {
-  color: rgb(189, 15, 15);
+  color: rgb(16, 106, 190);
   text-align: center;
   font-family: "Arial";
   font-size: 16px;
@@ -9,7 +9,7 @@ body {
 #container {
   width: 70%;
   padding: 1em;
-  text-align: left;
+  text-align: center;
   border: 1px solid #ddd;
   margin: 0 auto;
 }
